@@ -160,9 +160,13 @@ Opción:
                                         ▲
                                         └── Relación 1:1
 
-📹 Enlace al Video Explicativo, carpeta drive publica:
+📹 Enlace al informe en pdf, carpeta drive publica:
 
 https://drive.google.com/drive/folders/1oj9mIR9VRuQrwshBnfoqQNAGBbm0f1IK?usp=sharing
+
+📹 Se adjunta link del video explicativo: 
+
+https://youtu.be/cY5gZAHgOjc?si=ZAYQZIJDzzkgt-aC
 
 📌 Autores
 
